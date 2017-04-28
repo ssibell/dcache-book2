@@ -10,7 +10,7 @@ The dCache Book is the guide for administrators of dCache systems. The first par
 Table of Contents
 ------------------
 
-[Preface](readme.md)   
+[Preface](README.md)   
 [I. Getting started](start.md)   
 
 1. Introduction
