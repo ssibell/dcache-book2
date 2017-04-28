@@ -32,7 +32,7 @@ Table of Contents
 [16. The alarms Service](config-alarms.md)  
 [17. dCache Webadmin Interface](config-webadmin.md)  
 [18. ACLs in dCache](config-acl.md)  
-[19. GLUE Info Provider](config(config-info-provider.md)  
+[19. GLUE Info Provider](config-info-provider.md)  
 [20. Stage Protection](config-stage-protection.md)  
 [21. Using Space Reservations without SRM](config-write-token.md)   
 
