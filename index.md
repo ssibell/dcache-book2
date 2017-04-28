@@ -1,7 +1,7 @@
 The dCache Book
 ================
-for 3.0-series (FHS layout)
-============================
+for 3.0-series 
+===============
 
 Abstract
 
