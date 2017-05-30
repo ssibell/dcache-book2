@@ -4,7 +4,7 @@ CHAPTER 16. THE ALARMS SERVICE
 Table of Contents
 -----------------
 
- * [The Basic Setup](#the-basic-setup)  
+ * [The Basic setup](#the-basic-setup)  
 
       [Configure where the alarms service is Running](#configure-where-the-alarms-service-is-running)  
       [Types of Alarms](#types-of-alarms)    
